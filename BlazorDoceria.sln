@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorDoceria", "BlazorDoceria\BlazorDoceria.csproj", "{37D64C86-B5CC-4F7A-B210-FF5511642487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiDoceria", "MauiDoceria\MauiDoceria.csproj", "{74BCAF82-27C8-4A7B-B42A-397DCB217AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D64C86-B5CC-4F7A-B210-FF5511642487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D64C86-B5CC-4F7A-B210-FF5511642487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D64C86-B5CC-4F7A-B210-FF5511642487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D64C86-B5CC-4F7A-B210-FF5511642487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BCAF82-27C8-4A7B-B42A-397DCB217AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BCAF82-27C8-4A7B-B42A-397DCB217AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BCAF82-27C8-4A7B-B42A-397DCB217AD4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{74BCAF82-27C8-4A7B-B42A-397DCB217AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BCAF82-27C8-4A7B-B42A-397DCB217AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BCAF82-27C8-4A7B-B42A-397DCB217AD4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792E0085-38E7-4981-A7AB-5C964B3CB5C0}
+	EndGlobalSection
+EndGlobal
